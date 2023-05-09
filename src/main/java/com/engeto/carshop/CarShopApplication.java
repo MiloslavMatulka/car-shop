@@ -4,7 +4,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * Spring Boot application that defines endpoints for REST API.
+ * Spring Boot application that defines endpoints for REST API with MySQL
+ * database.
  *
  * @author Miloslav Matulka (Discord tag Miloslav#8572)
  */
