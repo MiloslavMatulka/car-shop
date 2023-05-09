@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.engeto</groupId>
 	<artifactId>car-shop</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<packaging>war</packaging>
 	<name>car-shop</name>
 	<description>Car shop REST API</description>
